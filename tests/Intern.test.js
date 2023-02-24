@@ -1,4 +1,4 @@
-const Intern = require("../lib/Intern");
+const Intern = require("../lib/Intern.js");
 
 test("testing Intern parameter", function(){
     let testEmployee = new Intern("James", "001", "james@lol.com", "blahblah high school")

@@ -1,4 +1,4 @@
-const Manager = require("../lib/Manager");
+const Manager = require("../lib/Manager.js");
 
 test("testing Manager parameter", function(){
     let testEmployee = new Manager("James", "001", "james@lol.com", "777")

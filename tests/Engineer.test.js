@@ -1,4 +1,4 @@
-const Engineer = require("../lib/Engineer");
+const Engineer = require("../lib/Engineer.js");
 
 test("testing Engineer parameter", function(){
     let testEmployee = new Engineer("James", "001", "james@lol.com", "github")
